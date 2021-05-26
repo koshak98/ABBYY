@@ -7,4 +7,5 @@
 - You are free to download ``num`` images (this is the only argument to input).
 - Result is ``example.pdf``
 # C++
-pass
+- Calculate figure's area (circle, triangle or rectangle).
+- User should understand what coordinates he uses. If rectangle is chosen, then 3 coordinates has to form a right angle.
