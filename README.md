@@ -5,5 +5,6 @@
 - ``convert.py`` is file for converting ``.docx`` to ``.pdf``.
 - ``word.py`` is main file for creating Document. It consists of ``num`` pages.
 - You are free to download ``num`` images (this is the only argument to input).
+- Result is ``example.pdf``
 # C++
 pass
